@@ -1,2 +1,13 @@
-# tachiyomi-archive
-All versions of Tachiyomi 0.15.x are available here. Only arm-64v8 (or however you type that) available.
+# Tachiyomi Archive
+All versions of Tachiyomi are available here.
+All are checked with VirusTotal and got no bad rep. If you find any malware, feel free to create an issue and I will remove it.
+
+Install extensions after adding this repo: https://keiyoushi.github.io/extensions/
+
+# Why?
+Tachiyomi, the best manga reader app on the planet, was recently shut down. According to the official site:
+![image](https://github.com/bedantadey17/tachiyomi-archive/assets/135055975/8f7b149f-7ed3-4d72-bbe2-be15f4bb9bd0)
+
+You can read more here: https://tachiyomi.org/news/2024-01-13-goodbye
+
+
