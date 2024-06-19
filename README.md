@@ -1,5 +1,7 @@
 # Tachiyomi Archive
-All versions of Tachiyomi are available here.
+
+## THESE HAVE BEEN MOVED TO EASY DOWNLOAD FROM MY SITE: https://itscosmo.live/files  |  You can also find it on the repository: https://github.com/bedantadey17/filesystem
+All versions of Tachiyomi are available there.
 All are checked with VirusTotal and got no bad rep. If you find any malware, feel free to create an issue and I will remove it.
 
 Install extensions after adding this repo: https://keiyoushi.github.io/extensions/
